@@ -1,0 +1,19 @@
+{
+  "name": "tinyformat",
+  "version": "1.0.0",
+  "description": "A tiny JS string formatting lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Potch",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/potch/tinyformat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/potch/tinyformat/issues"
+  },
+  "homepage": "https://github.com/potch/tinyformat"
+}
